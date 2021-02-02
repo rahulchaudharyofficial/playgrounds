@@ -1,0 +1,2 @@
+SELECT FromEmailAddress, Body, HeaderImageId, Subject, LastModifiedDate, IsDeleted, SystemModstamp, LastModifiedById, MasterLabel, DeveloperName, CreatedDate, CreatedById, Id, FooterImageId
+  FROM SurveyEmailBranding
